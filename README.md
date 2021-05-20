@@ -20,7 +20,7 @@
  <img src="Web capture_19-5-2021_213958_.jpeg" alt="Failed to load picture"></a>
 
  ## <h2 id="Future"><i> Future of this quiz</i></h2>
- <p> As you might see, it has some mistakes that I plan to fix while i'm getting more experience. The index2 and scrypt2 are for the highscore part, i'll try to mix all in one single index in the future. If you want to try it, just click <a href=" " target="_blank">here</p>
+ <p> As you might see, it has some mistakes that I plan to fix while i'm getting more experience. The index2 and scrypt2 are for the highscore part, i'll try to mix all in one single index in the future. If you want to try it, just click <a href="https://bruno192000.github.io/Small-quiz/" target="_blank">here</p>
 
  ## <h2 id="contact"><i>Contact information</i></h2>
 <p> As always, you'll find 3 ways to contact me:</p>
