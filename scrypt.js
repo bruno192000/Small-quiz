@@ -174,9 +174,9 @@ function allDone() {
     createSubmit.addEventListener("click", function () {
         var initials = createInput.value;
 
-        if (initials === null) {
+        if (!initials) {
 
-            console.log("No value entered!");
+            alert("Write your initials");
 
         } else {
             var finalScore = {
