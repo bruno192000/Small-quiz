@@ -16,6 +16,12 @@
 ## <h2 id="Quiz"><i>Quiz and the structure</i></h2>
  
  <p> The quiz will evaluate how much you know about html, javascrypt and css. You have a limit of time of 75, also a penalty of 10 sec for every question that is asnwer incorrectly. On the other hand, you'll find a link on the corner to see the highscores. You can save and clear your initials and the score you made.</p>
+ <h3>Tech used</h3> 
+ <li>Html</li>
+<li>Css</li>
+<li>Javascript</li>
+<li>JQuery</li>
+
 
  <img src="Web capture_19-5-2021_213958_.jpeg" alt="Failed to load picture"></a>
 
